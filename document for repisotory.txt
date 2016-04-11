@@ -1,1 +1,2 @@
 this is the special document for repository GITHUB
+I've made some changes in this document to fix the bug #1.
